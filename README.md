@@ -1,2 +1,2 @@
 # resume
-Find my resume here
+Find my resume here: https://mathewbushuru.github.io/resume/
